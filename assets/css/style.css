@@ -1,0 +1,38 @@
+.logo img {
+  transition: 0.5s;
+}
+
+.logo img:hover {
+  transform: scale(1.1);
+}
+.sObj {
+  display: inline-block;
+  transition: 0.5s;
+  color: #ffffff;
+}
+
+.sObj:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+#AI_selector:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  color: rgba(79, 218, 255, 0.8);
+}
+#blockchain_selector:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  color: rgba(249, 255, 126,0.8);
+}
+#backend_selector:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  color: rgba(84, 255, 80,0.8);
+}
+#img_selector:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  color: rgba(254, 71, 71,0.8);
+}

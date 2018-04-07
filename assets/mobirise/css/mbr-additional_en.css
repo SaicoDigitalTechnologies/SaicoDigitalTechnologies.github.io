@@ -56,22 +56,7 @@ body {
 }
 
 
-#AI_selector:hover {
-  cursor: pointer;
-  color: #5d7abb;
-}
-#blockchain_selector:hover {
-  cursor: pointer;
-  color: #5d7abb;
-}
-#backend_selector:hover {
-  cursor: pointer;
-  color: #5d7abb;
-}
-#img_selector:hover {
-  cursor: pointer;
-  color: #5d7abb;
-}
+
 
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
